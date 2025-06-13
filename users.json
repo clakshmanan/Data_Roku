@@ -1,0 +1,39 @@
+
+{
+  "lakshmanan": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": true,
+    "is_superadmin": true,
+    "created_at": "2025-06-12 00:00:00"
+  },
+  "santhosh": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": true,
+    "is_superadmin": false,
+    "created_at": "2025-06-12 00:00:00"
+  },
+  "sridhar": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": false,
+    "is_superadmin": false,
+    "created_at": "2025-06-12 00:00:00"
+  },
+  "gowri": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": false,
+    "is_superadmin": false,
+    "created_at": "2025-06-12 00:00:00"
+  },
+  "patrick": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": true,
+    "is_superadmin": false,
+    "created_at": "2025-06-12 00:00:00"
+  },
+  "rajeev": {
+    "password_hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "is_admin": false,
+    "is_superadmin": false,
+    "created_at": "2025-06-12 00:00:00"
+  }
+}
